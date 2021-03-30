@@ -24,7 +24,7 @@ Pydriller:
 for each project: \
   for each commit: (apply filter to select these commits with Sstubs) \
     get commit info \
-    save (commit_id, commit_info, project_name, contributor_name) \
+    save (commit_id, commit_info, project_name, contributor_name)
 
 **step2:**
 build the (project-name: project info) table
@@ -40,11 +40,11 @@ for item in step1-table:
   contributor_related_info = extarct info from contributor-table by item.contributor_name \
   commit_related_info = item.commit_info \
   Sstubs_num = item.commit_info.bug_num \
-  save(commit_related_info, contributor_related_info, project_related_info, Sstubs_num) into train-table \
+  save(commit_related_info, contributor_related_info, project_related_info, Sstubs_num) into train-table
 
 **step5:** \
 data pre-process \
-normalize, or catergorize each column. \
+normalize, or catergorize each column.
 
 ## Data analysis
 
