@@ -22,9 +22,9 @@ build the (commit_id: commit_info, project_name, contributor_name) table
 Pydriller:
 
 for each project: \
-&nbsp for each commit: (apply filter to select these commits with Sstubs) \
-&nbsp &nbsp get commit info \
-&nbsp &nbsp save (commit_id, commit_info, project_name, contributor_name)
+for each commit: (apply filter to select these commits with Sstubs) \
+get commit info \
+save (commit_id, commit_info, project_name, contributor_name)
 
 **step2:**
 build the (project-name: project info) table
