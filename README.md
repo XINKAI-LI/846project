@@ -20,6 +20,7 @@ How to extract data with current tool is the challenge.
 build the (commit_id: commit_info, project_name, contributor_name) table
 
 Pydriller:
+build the project, commit_id_list table
 
 for each project: \
 for each commit: (apply filter to select these commits with Sstubs) \
