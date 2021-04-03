@@ -16,4 +16,10 @@ but neet to check if it is what we want
 
 ## 3.total number of simple stupid bugs the contributor write
 
-## 
+## 4 first commit time
+
+## 5 relative last commit time
+
+## 6 the activiy for past 4 weeks
+if the contributor is busy recently, he/she should be fimilar with the project and write less bugs.
+
