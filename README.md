@@ -1,6 +1,6 @@
 # 846project
 
-## feature wishing list for contributors
+## I.feature wishing list for contributors
 
 write the **feature** we want to extract and the corresponding **API** here
 
@@ -23,5 +23,5 @@ but neet to check if it is what we want
 ### 6 the activiy for past 4 weeks
 if the contributor is busy recently, he/she should be fimilar with the project and write less bugs.
 
-## feature wishing list for projects
+## II.feature wishing list for projects
 
