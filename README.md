@@ -25,3 +25,7 @@ if the contributor is busy recently, he/she should be fimilar with the project a
 
 ## II.feature wishing list for projects
 
+## III.feature wishing list for files
+
+### 1.complexity of file
+simple file is not easy for appreance of SstuBugs
