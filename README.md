@@ -29,3 +29,10 @@ if the contributor is busy recently, he/she should be fimilar with the project a
 
 ### 1.complexity of file
 simple file is not easy for appreance of SstuBugs
+
+### 2.num of author for this file
+file with many authors is not easy to update so it can be bug-inducing
+
+## 3.Is the contributor the main author of this file?
+If the contributor is the main author, he/she should be fimilar with this file and write less bugs
+
