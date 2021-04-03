@@ -1,6 +1,6 @@
 # 846project
 
-## feature wishing list
+## feature wishing list for contributors
 
 write the **feature** we want to extract and the corresponding **API** here
 
@@ -9,17 +9,19 @@ how busy the contributor this week
 
 https://api.github.com/repos/spring-projects/spring-boot/stats/contributors
 
-## 2.total num of commits
+### 2.total num of commits
 represent how many experiences the contributor has for this project
 current we have the already get the contributions in user_info
 but neet to check if it is what we want
 
-## 3.total number of simple stupid bugs the contributor write
+### 3.total number of simple stupid bugs the contributor write
 
-## 4 first commit time
+### 4 first commit time
 
-## 5 relative last commit time
+### 5 relative last commit time
 
-## 6 the activiy for past 4 weeks
+### 6 the activiy for past 4 weeks
 if the contributor is busy recently, he/she should be fimilar with the project and write less bugs.
+
+## feature wishing list for projects
 
